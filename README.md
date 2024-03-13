@@ -30,9 +30,3 @@ Try it online [here](https://google-keeps-clone.herokuapp.com/)!
 2. When running any command like `python manage.py collectstatic`, just add `docker-compose exec web <command>`
 3. It has postgresql, so you can access with `docker-compose exec db psql -U postgres`
 
-## License
-Distributed under the [MIT](https://github.com/kimlimjustin/google-keep-clone/blob/master/LICENSE) License. See [`LICENSE`](https://github.com/kimlimjustin/google-keep-clone/blob/master/LICENSE) for more information.
-
-## Contact
-- Justin Maximillian Kimlim - [kimlimjustin@gmail.com](mailto:kimlimjustin@gmail.com)
-- Project link: https://github.com/kimlimjustin/google-form-clone
